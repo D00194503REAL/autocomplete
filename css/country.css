@@ -1,0 +1,19 @@
+#country-list{float:left;list-style:none;margin-top:-3px;padding:0;width:99.5%;position: absolute; border: #a8d4b1 1px solid;}
+#country-list li{padding: 10px; background: #f0f0f0; border-bottom: #a8d4b1 1px solid;}
+#country-list li:hover{background:#a8d4b1;cursor: pointer;}
+#search-box,#search-box2{padding: 10px;border: #a8d4b1 1px solid;border-radius:4px;}
+#countySelect,#townSelect{padding: 10px;border: #a8d4b1 1px solid;border-radius:4px; width: 100%; background-color: #2e3740;}
+select
+{
+    color: #435160;
+    font: 400 13.3333px Arial;
+/*    visibility:hidden;
+    position: absolute;*/
+}
+
+option
+{
+    background-color: #f0f0f0;
+    font: 400 13.3333px Arial;
+}
+option:hover{background:#a8d4b1;cursor: pointer;}
